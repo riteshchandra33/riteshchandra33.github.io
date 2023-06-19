@@ -2,7 +2,7 @@
 title: "US Air Pollution Time Series Analysis"
 collection: code
 permalink: /code/air_pollution
-excerpt: "Skills: Time Series techniques - Naive methods, Average methods, SARIMAX, LSTM, Python data manipulation.Time Series Forecasting for US Air Pollution Data."
+excerpt: "<b>Skills</b>: Time Series techniques - Naive methods, Average methods, SARIMAX, LSTM, Python data manipulation.<br>Time Series Forecasting for US Air Pollution Data."
 year: 2023
 repo: "https://github.com/krakshak/US-Air-pollution-Time-Series-Analysis"
 ---
