@@ -13,53 +13,79 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="../files/Rakshak_Kunchum.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Education
 ---
-**In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
+**2023 - Present**<br>
+Candidate for Master of Science in Data Science<br>
+Northeastern University<br>
+GPA: 4.0/4.0<br>
 
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+**2016-2020**<br>
+Bachelor of Engineering in Information Science Engineering<br>
+BMS College of Engineering, Bangalore, India<br>
+GPA: 8.8/10<br>
 
-## Research experience
+## Professional Experience
 ---
 
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
+**2020 - 2022**<br>
+Data Engineering<br>
+Dataweave (Infoweave Analytics Pvt Ltd), Bangalore, India<br>
+• Automated data engineering projects, applying project-specific automation techniques to streamline processes, enhance efficiency and reduce manual intervention, resulting in improved team productivity and project outcomes.<br>
+• Pioneered the implementation of the Dask framework to optimize batch processing of image data in the company's clustering algorithm, achieving a remarkable 50% reduction in processing times and demonstrating innovative problem-solving skills and effective teamwork.<br>
+• Spearheaded the setup of end-to-end data pipelines using Apache Airflow, enabling seamless data workflows.<br>
+• Piloted the comprehensive workflow for counterfeit detection showcasing leadership and collaboration skills. Achieving over 95% accuracy in identifying and taking down counterfeit products.<br>
 
+**2020 - 2022**<br>
+Data Engineering Intern<br>
+Dataweave (Infoweave Analytics Pvt Ltd), Bangalore, India<br>
+• Built diverse crawler plugins and designed efficient solutions for scheduling data crawls, enabling effective data scraping from multiple e-commerce websites and ensuring optimal data extraction and flow.<br>
+• Led the delivery of structured data by employing data-wrangling methods to clients under data-as-a-service project.<br>
 
-## Service and Outreach
+## Academic Projects
 ---
-**2013 - Present**<br>
-Outreach<br>
 
+**US Air Pollution Time Series Analysis**<br>
+Northeastern University, DS 5110<br>
+• Applied time-series analysis techniques to the US pollution dataset, by focusing on significant pollutants.<br>
+• Leveraged advanced time-series forecasting approaches (SARIMAX, LSTM) to predict future air pollution trends in California, providing valuable data-driven insights for environmental monitoring and strategic decision-making.<br>
+
+**Trending News Prediction using NLTK and Web Scraping**<br>
+• Developed a web scraper to gather news articles from a specific website and processed the data using NLP techniques.<br>
+• Employed various classification machine learning models (logistic regression, k-nearest neighbors, decision tree, random forest, xgboost) to determine the optimal model for predicting and analyzing news trends.<br>
+
+**Deep Learning Approaches to Detect Pneumonia**<br>
+BMS College of Engineering<br>
+• Ran a comparative analysis of three machine learning models (CNN, U-Net, Mask-RCNN) for pneumonia detection.<br>
+• Achieved accurate identification and precise localization of pneumonia infection regions in Chest Radiographs by leveraging the superior performance of the Mask-RCNN model.<br>
+
+**Foliar Disease Detection using CNN**<br>
+• The Objective of the project was to train a model using images of the training dataset to accurately classify a given image from the testing dataset into different diseased categories or a healthy leaf.<br>
+• A vanilla CNN model served as an optimum solution for the problem statement and use case. After implementation, the model was accurately able to differentiate the test images into a diseased category or a healthy leaf.<br>
+
+**Deep Learning approach to detect distracted drivers**<br>
+BMS College of Engineering<br>
+• Developed and evaluated multiple variations of a CNN deep learning model to detect distracted drivers, achieving accurate results and high efficiency through optimization and transfer learning techniques.<br>
+• Successfully implemented a final model that accurately identified the driver's activity with high accuracy using the optimized CNN model and transfer learning approach.<br>
 
 ## Publications
 ---
-**Name2** et al. "Title of paper 1", 2016.
-
-
+<a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003167488-15/waste-management-energy-conservation-industries-shreyas-rakshak-singh-bhat-anitha" class="uline"><b>E-waste management and energy conservation in industries</b></a>, 2021<br>
+**K.Rakshak** et al.<br>
+A two-phase model is proposed that deals with the e-waste effectively. The end goal is to use technology on both the hardware and software side to minimize pollution, increase energy efficiency, and also encourage material recycling. The usage and benefits of Eco-ATMs are explored in this paper.<br>
 
 ## Awards and Honors
 ---
-Best Jekyll Theme, *Spring 2018*<br>
+**Spot Award winner and Value Champion** for AMJ’ 21 quarter at Dataweave for efficient performance across projects.<br>
+**Winner of Start-Up week** conducted by the Center for Innovation, Research and Development (ICRD), BMSCE.<br>
+**Finalist in Smart India Hackathon (SIH)** 2020, conducted by the Government of India.<br>
 
-
-## Talks and Presentations
+## Extracurriculars
 ---
-"Seminar 17", University Colloquium, *March 2018*
+Data Science Hub, Northeastern Graduate Student Government, Badminton, Hiking, E-Sports<br>
 
-
-## Teaching
----
-**Summer 1900**<br>
-Primary Instructor<br>
-*Quantum Field Theory 101*
+## Service and Outreach
+**Volunteer** in the Rotaract club’s *I-Teach initiative*<br>
+Helped underprivileged students by teaching them elementary subjects.<br>
