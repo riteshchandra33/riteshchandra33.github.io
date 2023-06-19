@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Rakshak Kunchum"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Graduate Student at Northeastern University"
+  avatar           : "/images/rakshak.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Science Graduate Student at Northeastern University | Former Data Engineer at Dataweave"
   location         : "Boston, MA"
   employer         : 
   email            : "kunchum.r@northeastern.edu"
