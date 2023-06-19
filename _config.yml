@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Rakshak Kunchum"
 title_separator          : "-"
 name                     : "Rakshak Kunchum"
-description              : "Name's academic homepage"
+description              : "Rakshak's academic homepage"
 url                      : "https://krakshak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Rakshak Kunchum"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of CSS"
-  location         : 
+  bio              : "Data Science Graduate Student at Northeastern University"
+  location         : "Boston, MA"
   employer         : 
   email            : "kunchum.r@northeastern.edu"
   uri              :
@@ -114,13 +114,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "krakshak"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "rakshak-kunchum" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   googlescholar    : 
   pinterest        :
   soundcloud       :
