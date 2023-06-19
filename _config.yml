@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -103,7 +103,7 @@ author:
   name             : "Rakshak Kunchum"
   avatar           : "/images/rakshak.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Graduate Student at Northeastern University | Former Data Engineer at Dataweave"
-  location         : "Boston, MA"
+  location         : "Boston, Massachusetts"
   employer         : 
   email            : "kunchum.r@northeastern.edu"
   uri              :
