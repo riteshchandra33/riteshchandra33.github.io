@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Code"
+permalink: /code/
 author_profile: true
 classes: wide
 ---
 
-{% for post in site.projects reversed %}
+{% for post in site.code reversed %}
   {% include archive-single.html %}
 {% endfor %}

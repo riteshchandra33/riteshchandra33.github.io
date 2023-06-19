@@ -87,6 +87,5 @@ A two-phase model is proposed that deals with the e-waste effectively. The end g
 Data Science Hub, Northeastern Graduate Student Government, Badminton, Hiking, E-Sports<br>
 
 ## Service and Outreach
----
 **Volunteer** in the Rotaract club’s *I-Teach initiative*-<br>
 Helped underprivileged students by teaching them elementary subjects.<br>
