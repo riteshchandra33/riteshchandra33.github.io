@@ -1,7 +1,8 @@
 ---
 title: "Trending News Prediction using NLTK and Web Scraping"
 collection: code
-permalink: /code/air_pollution
+permalink: /code/trending_news
+university: "Northeastern University"
 excerpt: "Pedicting if news articles will be trending by analyzing the news titles and description.<br><b>Skills</b>: Python web scraping, NLP (NLTK), Python data manipulation - Numpy, Pandas, Machine Learning - Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, Xgboost"
 year: 2021
 repo: "https://github.com/krakshak/trending-news-prediction"
