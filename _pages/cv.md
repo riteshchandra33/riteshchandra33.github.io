@@ -33,42 +33,42 @@ GPA: 8.8/10<br>
 **2020 - 2022**<br>
 Data Engineering<br>
 Dataweave (Infoweave Analytics Pvt Ltd), Bangalore, India<br>
-• Automated data engineering projects, applying project-specific automation techniques to streamline processes, enhance efficiency and reduce manual intervention, resulting in improved team productivity and project outcomes.<br>
-• Pioneered the implementation of the Dask framework to optimize batch processing of image data in the company's clustering algorithm, achieving a remarkable 50% reduction in processing times and demonstrating innovative problem-solving skills and effective teamwork.<br>
-• Spearheaded the setup of end-to-end data pipelines using Apache Airflow, enabling seamless data workflows.<br>
-• Piloted the comprehensive workflow for counterfeit detection showcasing leadership and collaboration skills. Achieving over 95% accuracy in identifying and taking down counterfeit products.<br>
+<ul><li>Automated data engineering projects, applying project-specific automation techniques to streamline processes, enhance efficiency and reduce manual intervention, resulting in improved team productivity and project outcomes.</li><br>
+<li>Pioneered the implementation of the Dask framework to optimize batch processing of image data in the company's clustering algorithm, achieving a remarkable 50% reduction in processing times and demonstrating innovative problem-solving skills and effective teamwork.</li><br>
+<li>Spearheaded the setup of end-to-end data pipelines using Apache Airflow, enabling seamless data workflows.</li><br>
+<li>Piloted the comprehensive workflow for counterfeit detection showcasing leadership and collaboration skills. Achieving over 95% accuracy in identifying and taking down counterfeit products.</li></ul><br>
 
 **2020 - 2022**<br>
 Data Engineering Intern<br>
 Dataweave (Infoweave Analytics Pvt Ltd), Bangalore, India<br>
-• Built diverse crawler plugins and designed efficient solutions for scheduling data crawls, enabling effective data scraping from multiple e-commerce websites and ensuring optimal data extraction and flow.<br>
-• Led the delivery of structured data by employing data-wrangling methods to clients under data-as-a-service project.<br>
+<ul><li>Built diverse crawler plugins and designed efficient solutions for scheduling data crawls, enabling effective data scraping from multiple e-commerce websites and ensuring optimal data extraction and flow.</li><br>
+<li>Led the delivery of structured data by employing data-wrangling methods to clients under data-as-a-service project.</li></ul><br>
 
 ## Academic Projects
 ---
 
 **US Air Pollution Time Series Analysis**<br>
 Northeastern University, DS 5110<br>
-• Applied time-series analysis techniques to the US pollution dataset, by focusing on significant pollutants.<br>
-• Leveraged advanced time-series forecasting approaches (SARIMAX, LSTM) to predict future air pollution trends in California, providing valuable data-driven insights for environmental monitoring and strategic decision-making.<br>
+<ul><li>Applied time-series analysis techniques to the US pollution dataset, by focusing on significant pollutants.</li><br>
+<li>Leveraged advanced time-series forecasting approaches (SARIMAX, LSTM) to predict future air pollution trends in California, providing valuable data-driven insights for environmental monitoring and strategic decision-making.</li></ul><br>
 
 **Trending News Prediction using NLTK and Web Scraping**<br>
-• Developed a web scraper to gather news articles from a specific website and processed the data using NLP techniques.<br>
-• Employed various classification machine learning models (logistic regression, k-nearest neighbors, decision tree, random forest, xgboost) to determine the optimal model for predicting and analyzing news trends.<br>
+<ul><li>Developed a web scraper to gather news articles from a specific website and processed the data using NLP techniques.</li><br>
+<li>Employed various classification machine learning models (logistic regression, k-nearest neighbors, decision tree, random forest, xgboost) to determine the optimal model for predicting and analyzing news trends.</li></ul><br>
 
 **Deep Learning Approaches to Detect Pneumonia**<br>
 BMS College of Engineering<br>
-• Ran a comparative analysis of three machine learning models (CNN, U-Net, Mask-RCNN) for pneumonia detection.<br>
-• Achieved accurate identification and precise localization of pneumonia infection regions in Chest Radiographs by leveraging the superior performance of the Mask-RCNN model.<br>
+<ul><li>Ran a comparative analysis of three machine learning models (CNN, U-Net, Mask-RCNN) for pneumonia detection.</li><br>
+<li>Achieved accurate identification and precise localization of pneumonia infection regions in Chest Radiographs by leveraging the superior performance of the Mask-RCNN model.</li></ul><br>
 
 **Foliar Disease Detection using CNN**<br>
-• The Objective of the project was to train a model using images of the training dataset to accurately classify a given image from the testing dataset into different diseased categories or a healthy leaf.<br>
-• A vanilla CNN model served as an optimum solution for the problem statement and use case. After implementation, the model was accurately able to differentiate the test images into a diseased category or a healthy leaf.<br>
+<ul><li>The Objective of the project was to train a model using images of the training dataset to accurately classify a given image from the testing dataset into different diseased categories or a healthy leaf.</li><br>
+<li>A vanilla CNN model served as an optimum solution for the problem statement and use case. After implementation, the model was accurately able to differentiate the test images into a diseased category or a healthy leaf.</li></ul><br>
 
 **Deep Learning approach to detect distracted drivers**<br>
 BMS College of Engineering<br>
-• Developed and evaluated multiple variations of a CNN deep learning model to detect distracted drivers, achieving accurate results and high efficiency through optimization and transfer learning techniques.<br>
-• Successfully implemented a final model that accurately identified the driver's activity with high accuracy using the optimized CNN model and transfer learning approach.<br>
+<ul><li>Developed and evaluated multiple variations of a CNN deep learning model to detect distracted drivers, achieving accurate results and high efficiency through optimization and transfer learning techniques.</li><br>
+<li>Successfully implemented a final model that accurately identified the driver's activity with high accuracy using the optimized CNN model and transfer learning approach.</li></ul><br>
 
 ## Publications
 ---
