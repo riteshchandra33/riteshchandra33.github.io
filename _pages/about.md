@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-# Hi 👋 My name is Rakshak Kunchum
+Hi 👋 My name is Rakshak Kunchum
+=================================
 
 Data Science Graduate Student at Northeastern University
 --------------------------------------------------------
