@@ -32,32 +32,32 @@ Programming Languages
 
 Python Frameworks for Data Science
 <p align="left">
-<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-numpy.svg" width="36" height="36" alt="Numpy" />Numpy</a>
-<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-pandas.svg" width="36" height="36" alt="Pandas" />Pandas</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-tensorflow.svg" width="36" height="36" alt="Tensorflow" />Tensorflow</a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/scikit-learn-seeklogo.com.svg" width="36" height="36" alt="Scikit-Learn" />Sklearn</a>
-<a href="https://www.dask.org" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/dask_icon.svg" width="36" height="36" alt="Dask" />Dask</a>
-<a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-opencv.svg" width="36" height="36" alt="OpenCV" />OpenCV</a>
-<a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/Matplotlib_icon.svg.png" width="36" height="36" alt="Matplotlib" />Matplotlib</a>
-<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/seaborn.svg" width="36" height="36" alt="Seaborn" />Seaborn</a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-numpy.svg" width="36" height="36" alt="Numpy" />Numpy</a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-pandas.svg" width="36" height="36" alt="Pandas" />Pandas</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tensorflow.svg" width="36" height="36" alt="Tensorflow" />Tensorflow</a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/scikit-learn-seeklogo.com.svg" width="36" height="36" alt="Scikit-Learn" />Sklearn</a>
+<a href="https://www.dask.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/dask_icon.svg" width="36" height="36" alt="Dask" />Dask</a>
+<a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-opencv.svg" width="36" height="36" alt="OpenCV" />OpenCV</a>
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/Matplotlib_icon.svg.png" width="36" height="36" alt="Matplotlib" />Matplotlib</a>
+<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/seaborn.svg" width="36" height="36" alt="Seaborn" />Seaborn</a>
 </p>
 
 Toolkits/Frameworks
 <p align="left">
-<a href="https://airflow.apache.org" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/airflow.svg" width="36" height="36" alt="Apache Airflow" />Apache Airflow</a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-amazon-web-services.svg" width="36" height="36" alt="Amazon Web Services" />Amazon Web Services</a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-git.svg" width="36" height="36" alt="Git" />Git</a>
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-tableau-software.svg" width="36" height="36" alt="Tableau" />Tableau</a>
+<a href="https://airflow.apache.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/airflow.svg" width="36" height="36" alt="Apache Airflow" />Apache Airflow</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-amazon-web-services.svg" width="36" height="36" alt="Amazon Web Services" />Amazon Web Services</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-git.svg" width="36" height="36" alt="Git" />Git</a>
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tableau-software.svg" width="36" height="36" alt="Tableau" />Tableau</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
 </p>
 
 Data Engineering
 <p align="left">
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-selenium.svg" width="36" height="36" alt="Selenium" />Selenium</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-bash.svg" width="36" height="36" alt="Shell Scripting" />Shell Scripting</a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-web-scraper.svg" width="36" height="36" alt="Web Scraping" />Web Scraping</a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/icons8-statistics-96.png" width="36" height="36" alt="Data Analysis" />Data Analysis</a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/krakshak/krakshak/blob/main/icons/data wragling.png" width="36" height="36" alt="Data Wrangling" />Data Wrangling</a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-selenium.svg" width="36" height="36" alt="Selenium" />Selenium</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-bash.svg" width="36" height="36" alt="Shell Scripting" />Shell Scripting</a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-web-scraper.svg" width="36" height="36" alt="Web Scraping" />Web Scraping</a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-statistics-96.png" width="36" height="36" alt="Data Analysis" />Data Analysis</a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/data wragling.png" width="36" height="36" alt="Data Wrangling" />Data Wrangling</a>
 </p>
 
 ## About Me
