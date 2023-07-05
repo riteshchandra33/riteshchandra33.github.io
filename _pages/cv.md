@@ -15,7 +15,7 @@ a.uline {text-decoration:underline;}
 
 <!-- <a href="../files/Rakshak%20Kunchum.pdf" class="uline">Click here for a full pdf copy of my CV</a> -->
 
-<p>Click here for a full pdf copy of my Resume/CV:</p>
+<p><b>Click here for a full pdf copy of my Resume/CV:</b></p>
 
 <style type="text/css">
 .maxbutton {
