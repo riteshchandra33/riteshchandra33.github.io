@@ -13,7 +13,48 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/Rakshak_Kunchum.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<!-- <a href="../files/Rakshak%20Kunchum.pdf" class="uline">Click here for a full pdf copy of my CV</a> -->
+
+<style type="text/css">
+.maxbutton {
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  width: 160px;
+  height: 50px;
+  border: 2px solid #505ac7;
+  border-radius: 4px 4px 4px 4px;
+  background-color: #505ac7;
+  box-shadow: 0px 0px 2px 0px #333333;
+}
+.maxbutton:hover {
+  border-color: #505ac7;
+  background-color: white;
+  box-shadow: 0px 0px 2px 0px #333333;
+}
+.maxbutton .mb-text {
+  color: #ffffff;
+  font-family: Tahoma;
+  font-size: 15px;
+  text-align: center;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1em;
+  box-sizing: border-box;
+  display: block;
+  background-color: unset;
+  position: relative;
+  padding: 18px 0px 0px 0px;
+}
+.maxbutton:hover .mb-text {
+  color: #505ac7;
+}
+</style>
+
+<a class="maxbutton" target="_blank" rel="noopener" href="https://raw.githubusercontent.com/krakshak/krakshak.github.io/files/Rakshak Kunchum.pdf" data-maxbuttoncounter="{&quot;button_id&quot;:659147,&quot;url&quot;:&quot;https:\/\/raw.githubusercontent.com\/krakshak\/krakshak.github.io\/files\/Rakshak Kunchum.pdf&quot;,&quot;check&quot;:&quot;f9kpRw1T&quot;}" data-maxbuttonpage="{&quot;id&quot;:false,&quot;type&quot;:false}"><span class='mb-text' >Resume</span></a>
+
+
 
 ## Education
 ---
