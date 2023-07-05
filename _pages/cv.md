@@ -15,6 +15,8 @@ a.uline {text-decoration:underline;}
 
 <!-- <a href="../files/Rakshak%20Kunchum.pdf" class="uline">Click here for a full pdf copy of my CV</a> -->
 
+<p>Click here for a full pdf copy of my Resume/CV:</p>
+
 <style type="text/css">
 .maxbutton {
   position: relative;
@@ -52,8 +54,7 @@ a.uline {text-decoration:underline;}
 }
 </style>
 
-<a class="maxbutton" target="_blank" rel="noopener" href="https://raw.githubusercontent.com/krakshak/krakshak.github.io/files/Rakshak Kunchum.pdf" data-maxbuttoncounter="{&quot;button_id&quot;:659147,&quot;url&quot;:&quot;https:\/\/raw.githubusercontent.com\/krakshak\/krakshak.github.io\/files\/Rakshak Kunchum.pdf&quot;,&quot;check&quot;:&quot;f9kpRw1T&quot;}" data-maxbuttonpage="{&quot;id&quot;:false,&quot;type&quot;:false}"><span class='mb-text' >Resume</span></a>
-
+<a class="maxbutton" target="_blank" rel="noopener" href="../files/Rakshak Kunchum.pdf" data-maxbuttoncounter="{&quot;button_id&quot;:969338,&quot;url&quot;:&quot;..\/files\/Rakshak Kunchum.pdf&quot;,&quot;check&quot;:&quot;Fma8TXAF&quot;}" data-maxbuttonpage="{&quot;id&quot;:false,&quot;type&quot;:false}"><span class='mb-text' >Resume</span></a>
 
 
 ## Education
