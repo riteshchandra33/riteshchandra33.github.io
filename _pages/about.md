@@ -32,12 +32,19 @@ Programming Languages
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-java.svg" width="44" height="44" alt="Java" />Java</a>
 </p>
 
+Databases
+<p align="left">
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/mysql-official.svg" width="36" height="36" alt="MySQL" />MySQL</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
+</p>
+
 Python Frameworks for Data Science
 <p align="left">
 <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-numpy.svg" width="36" height="36" alt="Numpy" />Numpy</a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-pandas.svg" width="36" height="36" alt="Pandas" />Pandas</a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tensorflow.svg" width="36" height="36" alt="Tensorflow" />Tensorflow</a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/scikit-learn-seeklogo.com.svg" width="36" height="36" alt="Scikit-Learn" />Sklearn</a>
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/pytorch-icon.svg" width="36" height="36" alt="PyTorch" />PyTorch</a>
 <a href="https://www.dask.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/dask_icon.svg" width="36" height="36" alt="Dask" />Dask</a>
 <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-opencv.svg" width="36" height="36" alt="OpenCV" />OpenCV</a>
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/Matplotlib_icon.svg.png" width="36" height="36" alt="Matplotlib" />Matplotlib</a>
@@ -47,10 +54,11 @@ Python Frameworks for Data Science
 Toolkits/Frameworks
 <p align="left">
 <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/airflow.svg" width="36" height="36" alt="Apache Airflow" />Apache Airflow</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/apache_kafka-icon.svg" width="36" height="36" alt="Apache Kafka" />Apache Kafka</a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/docker-tile.svg" width="36" height="36" alt="Docker" />Docker</a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-amazon-web-services.svg" width="36" height="36" alt="Amazon Web Services" />Amazon Web Services</a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-git.svg" width="36" height="36" alt="Git" />Git</a>
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tableau-software.svg" width="36" height="36" alt="Tableau" />Tableau</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
 </p>
 
 Data Engineering
