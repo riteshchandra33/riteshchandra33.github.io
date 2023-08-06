@@ -126,7 +126,7 @@ A two-phase model is proposed that deals with the e-waste effectively. The end g
 
 ## Extracurriculars
 ---
-Data Science Hub, Northeastern Graduate Student Government, Badminton, Hiking, E-Sports<br>
+Data Science Hub, Northeastern Graduate Student Government, Volleyball, Badminton, Hiking, Video Games, E-Sports<br>
 
 ## Service and Outreach
 ---

@@ -20,7 +20,7 @@ Data Science Graduate Student at Northeastern University
 * 🧠  I'm learning Deep Learning and Algorithms
 * 🤝  I'm open to collaborating on Data Science
 * ⚡  I use tabs over spaces
-* ⚽  My hobbies include hiking, badminton, video games
+* ⚽  My hobbies include hiking, volleyball, badminton, video games and e-sports.
 
 ## Skills
 
