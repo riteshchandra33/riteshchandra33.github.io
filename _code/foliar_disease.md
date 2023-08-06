@@ -1,9 +1,8 @@
 ---
-title: "Foliar Disease Detection using CNN"
+title: "Foliar Disease Detection using CNN [GitHub](https://github.com/krakshak/kaggle-foliar-detection)"
 collection: code
 permalink: /code/foliar_disease
-excerpt: "Built CNN model to classify different types of diseases affecting leaves using foliar leaf images.<br><b>Skills</b>: Python data manipulation - Numpy, Pandas, Deep Learning - CNN (Classification and Detection)."
-year: 2021
+excerpt: "Built CNN model to classify different types of diseases affecting leaves using foliar leaf images.<br><br><b>Skills</b>: Python data manipulation - Numpy, Pandas, Deep Learning - CNN (Classification and Detection)."
 repo: "https://github.com/krakshak/kaggle-foliar-detection"
 ---
 

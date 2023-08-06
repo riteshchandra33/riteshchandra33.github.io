@@ -1,10 +1,9 @@
 ---
-title: "Trending News Prediction using NLTK and Web Scraping"
+title: "Trending News Prediction using NLTK and Web Scraping [GitHub](https://github.com/krakshak/trending-news-prediction)"
 collection: code
 permalink: /code/trending_news
-excerpt: "Predicting if news articles will be trending by analyzing the news titles and description.<br><b>Skills</b>: Python web scraping, NLP (NLTK), Python data manipulation - Numpy, Pandas, Machine Learning - Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, Xgboost"
-year: 2021
-repo: ""
+excerpt: "Predicting if news articles will be trending by analyzing the news titles and description.<br><br><b>Skills</b>: Python web scraping, NLP (NLTK), Python data manipulation - Numpy, Pandas, Machine Learning - Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, Xgboost"
+repo: "https://github.com/krakshak/trending-news-prediction"
 ---
 
 ## Summary

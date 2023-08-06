@@ -13,7 +13,7 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<!-- <a href="../files/Rakshak%20Kunchum.pdf" class="uline">Click here for a full pdf copy of my CV</a> -->
+<!-- <a href="../files/Rakshak Kunchum Resume.pdf" class="uline">Click here for a full pdf copy of my CV</a> -->
 
 <p><b>Click here for a full pdf copy of my Resume/CV:</b></p>
 
@@ -54,7 +54,7 @@ a.uline {text-decoration:underline;}
 }
 </style>
 
-<a class="maxbutton" target="_blank" rel="noopener" href="../files/Rakshak Kunchum.pdf" data-maxbuttoncounter="{&quot;button_id&quot;:969338,&quot;url&quot;:&quot;..\/files\/Rakshak Kunchum.pdf&quot;,&quot;check&quot;:&quot;Fma8TXAF&quot;}" data-maxbuttonpage="{&quot;id&quot;:false,&quot;type&quot;:false}"><span class='mb-text' >Resume</span></a>
+<a class="maxbutton" target="_blank" rel="noopener" href="../files/Rakshak Kunchum Resume.pdf" data-maxbuttoncounter="{&quot;button_id&quot;:969338,&quot;url&quot;:&quot;..\/files\/Rakshak Kunchum.pdf&quot;,&quot;check&quot;:&quot;Fma8TXAF&quot;}" data-maxbuttonpage="{&quot;id&quot;:false,&quot;type&quot;:false}"><span class='mb-text' >Resume</span></a>
 
 
 ## Education
@@ -75,16 +75,16 @@ GPA: 8.8/10<br>
 **2020 - 2022**<br>
 Data Engineering<br>
 Dataweave (Infoweave Analytics Pvt Ltd), Bangalore, India<br>
-<ul><li>Automated data engineering projects, applying project-specific automation techniques to streamline processes, enhance efficiency and reduce manual intervention, resulting in improved team productivity and project outcomes.</li><br>
-<li>Pioneered the implementation of the Dask framework to optimize batch processing of image data in the company's clustering algorithm, achieving a remarkable 50% reduction in processing times and demonstrating innovative problem-solving skills and effective teamwork.</li><br>
-<li>Spearheaded the setup of end-to-end data pipelines using Apache Airflow, enabling seamless data workflows.</li><br>
-<li>Piloted the comprehensive workflow for counterfeit detection showcasing leadership and collaboration skills. Achieving over 95% accuracy in identifying and taking down counterfeit products.</li></ul><br>
+<ul><li>Collaboratively automated more than 10 end-to-end data science pipelines using Apache Airflow, Python, and AWS to integrate web crawlers, data sources, APIs and internal ETL frameworks resulting in enhanced project outcomes.</li><br>
+<li>Programmed complex SQL queries to handle large datasets using AWS Athena and S3 to generate business data for reports and interactive dashboards, empowering data-driven decision-making and enhancing business value for clients.</li><br>
+<li>Attained 50% reduction in text/image batch processing in the company's clustering algorithm by implementing dask library.</li><br>
+<li>Developed and deployed over 15 Selenium browser automation data crawlers and 200+ Python-based deep crawler bots to efficiently mine data and insights from e-commerce websites, bolstering the company's product offerings.</li></ul><br>
 
 **2020 - 2022**<br>
 Data Engineering Intern<br>
 Dataweave (Infoweave Analytics Pvt Ltd), Bangalore, India<br>
-<ul><li>Built diverse crawler plugins and designed efficient solutions for scheduling data crawls, enabling effective data scraping from multiple e-commerce websites and ensuring optimal data extraction and flow.</li><br>
-<li>Led the delivery of structured data by employing data-wrangling methods to clients under data-as-a-service project.</li></ul><br>
+<ul><li>Performed data analysis and brand analysis to identify counterfeit products, ensuring brand protection and compliance with price benchmarks for enhanced market competitiveness.</li><br>
+<li>Led the successful delivery of structured data by employing data-wrangling methods that unlocked new business for clients.</li></ul><br>
 
 ## Academic Projects
 ---

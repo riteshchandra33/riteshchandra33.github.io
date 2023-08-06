@@ -1,9 +1,8 @@
 ---
-title: "Deep Learning Approaches to Detect Pneumonia"
+title: "Deep Learning Approaches to Detect Pneumonia [GitHub](https://github.com/krakshak/kaggle-pneumonia-detection-model-comparision)"
 collection: code
 permalink: /code/pneumonia
-excerpt: "*BMS College of Engineering*<br><br>Comparative analysis of Deep learning approaches to detect pneumonia using Chest Radiographs.<br><b>Skills</b>: Python data manipulation - Numpy, Pandas, Deep Learning - CNN (Classification), U-Net (Segmentation), Mask-RCNN (Object Detection and Localization)."
-year: 2020
+excerpt: "*BMS College of Engineering*<br><br>Comparative analysis of Deep learning approaches to detect pneumonia using Chest Radiographs.<br><br><b>Skills</b>: Python data manipulation - Numpy, Pandas, Deep Learning - CNN (Classification), U-Net (Segmentation), Mask-RCNN (Object Detection and Localization)."
 repo: "https://github.com/krakshak/kaggle-pneumonia-detection-model-comparision"
 ---
 
