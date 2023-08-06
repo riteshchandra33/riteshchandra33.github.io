@@ -1,5 +1,5 @@
 ---
-title: "US Air Pollution Time Series Analysis"
+title: "US Air Pollution Time Series Analysis | [Github](https://github.com/krakshak/US-Air-pollution-Time-Series-Analysis)"
 collection: code
 permalink: /code/air_pollution
 excerpt: "*Northeastern University*<br><br>Time Series Forecasting for US Air Pollution Data.<br><b>Skills</b>: Time Series techniques - Naive methods, Average methods, SARIMAX, LSTM, Python data manipulation."
