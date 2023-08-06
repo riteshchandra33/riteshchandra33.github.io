@@ -7,7 +7,7 @@ year: 2020
 repo: "https://github.com/krakshak/kaggle-pneumonia-detection-model-comparision"
 ---
 
-##Summary
+## Summary
 ---
 
 Ran a comparative analysis of three machine learning models (CNN, U-Net, Mask-RCNN) for pneumonia detection. Achieved accurate identification and precise localization of pneumonia infection regions in Chest Radiographs by leveraging the superior performance of the Mask-RCNN model.

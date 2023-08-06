@@ -7,7 +7,7 @@ year: 2021
 repo: "https://github.com/krakshak/trending-news-prediction"
 ---
 
-##Summary
+## Summary
 ---
 
 Developed a web scraper to gather news articles from a specific website and processed the data using NLP techniques. Employed various classification machine learning models (logistic regression, k-nearest neighbors, decision tree, random forest, xgboost) to determine the optimal model for predicting and analyzing news trends.
