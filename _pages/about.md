@@ -10,6 +10,7 @@ classes: wide
 ---
 <h1> Hi 👋 My name is Rakshak Kunchum</h1>
 
+Incoming Data Science Intern at Capital One (Summer 2024), McLean, VA
 
 Data Science Graduate Student at Northeastern University
 --------------------------------------------------------
@@ -91,6 +92,10 @@ Summer 2023
 Fall 2023
 * CS5800: Algorithms.
 * CS7150: Deep Learning.
+
+Spring 2024
+* CS 6120: Natural Language Processing.
+* CS 6200: Information Retrieval.
 
 
 ## Socials
