@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rakshak Kunchum"
+  name             : "Ritesh Somashekar"
   avatar           : "/images/rakshak.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<ul><li>Incoming Data Science intern at Capital One (Summer 2024)</li><li>Data Science Graduate Student at Northeastern University</li><li>Former Data Engineer at Dataweave</li></ul>"
   location         : "Boston, Massachusetts"
